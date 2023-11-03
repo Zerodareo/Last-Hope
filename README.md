@@ -1,2 +1,2 @@
 # Last Hope
- A group project
+ An attempt who was suppose to web scraping pages just by entering the url
